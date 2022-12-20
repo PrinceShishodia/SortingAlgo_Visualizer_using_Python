@@ -6,4 +6,5 @@
 
 ### Sorting Algorithms implemented : 
 A. Insertion Sort
+
 B. Bubble Sort
