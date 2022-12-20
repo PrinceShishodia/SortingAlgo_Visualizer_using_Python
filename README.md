@@ -1,10 +1,11 @@
 # Sorting Algorithm Visualizer :
 
-1. Designed and implemented a Sorting Visualizer, where anyone can see the visual animation of two sorting algorithms.
+1. Implemented bubble sort and insertion sort algorithms in Python as part of a sorting algorithms visualizer project. 
 
-2. Added functionality to sort the given input in both ascending and descending order.
+2. Created a visually appealing interface for the visualizer using pygame, a Python library for game development.
 
-### Sorting Algorithms implemented : 
-A. Insertion Sort
+3. Implemented event handling and user input functionality using pygame's built-in functions and methods.
 
-B. Bubble Sort
+4. Utilized object-oriented programming principles to design and organize the codebase for the project.
+
+
